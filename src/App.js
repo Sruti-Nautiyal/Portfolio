@@ -5,7 +5,6 @@ import Skills from "./components/Skills";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Experiencec from "./components/Experiencec";
 
 
 function App() {
@@ -16,7 +15,7 @@ function App() {
       <main className="bg-white dark:bg-gray-900 text-gray-900 dark:text-white">
         <Hero />
         <Skills />
-        <Experiencec />
+        {/* <Experiencec /> */}
         <Project />
         <Contact />
         <Footer />

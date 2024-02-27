@@ -1,6 +1,6 @@
 import React from "react";
 import Section from "./common/Section";
-import { FaLinkedin, FaArrowCircleDown, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import contact from "../assets/contact.png";
 
